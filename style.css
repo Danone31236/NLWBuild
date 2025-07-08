@@ -1,0 +1,8 @@
+body {
+  background-image: url("./assets/bg.jpg");
+  background-repeat: no-repeat; /* keyword */
+  background-size: 100% auto; /* width height */
+  background-position: top center; /* vertical */
+  background-color: #121214;
+  color: white;
+}
